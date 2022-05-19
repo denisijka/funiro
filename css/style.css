@@ -1,4 +1,3 @@
-
 @charset "UTF-8";
 @font-face {
   font-family: Gilroy;
@@ -1252,21 +1251,6 @@ body {
 }
 .slider-main__body {
   overflow: visible;
-}
-@media (min-width: 61.99875em) {
-  .slider-main__body {
-    width: 58.375rem;
-  }
-}
-@media (min-width: 48em) and (max-width: 61.99875em) {
-  .slider-main__body {
-    width: clamp( 18.125rem , -119.8873225288rem  +  287.525671935vw , 58.375rem );
-  }
-}
-@media (max-width: 48em) {
-  .slider-main__body {
-    width: 18.125rem;
-  }
 }
 @media (max-width: 61.99875em) {
   .slider-main__body {
