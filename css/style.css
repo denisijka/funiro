@@ -1252,11 +1252,6 @@ body {
 .slider-main__body {
   overflow: visible;
 }
-@media (max-width: 61.99875em) {
-  .slider-main__body {
-    margin: 0 -15px;
-  }
-}
 .slider-main__slide {
   position: relative;
 }
